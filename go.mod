@@ -5,7 +5,7 @@ go 1.20
 require (
 	github.com/alecthomas/chroma v0.10.0
 	github.com/atotto/clipboard v0.1.4
-	github.com/charmbracelet/bubbles v0.16.1
+	github.com/charmbracelet/bubbles v0.18.0
 	github.com/charmbracelet/bubbletea v0.25.0
 	github.com/charmbracelet/lipgloss v0.10.0
 	github.com/docker/go-connections v0.5.0
