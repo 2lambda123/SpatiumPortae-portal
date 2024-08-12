@@ -20,7 +20,7 @@ require (
 	github.com/stretchr/testify v1.9.0
 	github.com/testcontainers/testcontainers-go v0.32.0
 	go.uber.org/zap v1.26.0
-	nhooyr.io/websocket v1.8.10
+	nhooyr.io/websocket v1.8.17
 )
 
 require (
