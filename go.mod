@@ -7,7 +7,7 @@ require (
 	github.com/atotto/clipboard v0.1.4
 	github.com/charmbracelet/bubbles v0.18.0
 	github.com/charmbracelet/bubbletea v0.27.0
-	github.com/charmbracelet/lipgloss v0.11.0
+	github.com/charmbracelet/lipgloss v0.13.0
 	github.com/docker/go-connections v0.5.0
 	github.com/erikgeiser/promptkit v0.9.0
 	github.com/fatih/structs v1.1.0
