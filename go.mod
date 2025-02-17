@@ -6,7 +6,7 @@ require (
 	github.com/alecthomas/chroma v0.10.0
 	github.com/atotto/clipboard v0.1.4
 	github.com/charmbracelet/bubbles v0.20.0
-	github.com/charmbracelet/bubbletea v1.2.4
+	github.com/charmbracelet/bubbletea v1.3.3
 	github.com/charmbracelet/lipgloss v1.0.0
 	github.com/docker/go-connections v0.5.0
 	github.com/erikgeiser/promptkit v0.9.0
@@ -45,7 +45,7 @@ require (
 	github.com/aymanbagabas/go-osc52/v2 v2.0.1 // indirect
 	github.com/cenkalti/backoff/v4 v4.2.1 // indirect
 	github.com/charmbracelet/harmonica v0.2.0 // indirect
-	github.com/charmbracelet/x/ansi v0.4.5 // indirect
+	github.com/charmbracelet/x/ansi v0.8.0 // indirect
 	github.com/charmbracelet/x/term v0.2.1 // indirect
 	github.com/containerd/log v0.1.0 // indirect
 	github.com/containerd/platforms v0.2.1 // indirect
@@ -97,7 +97,7 @@ require (
 	go.opentelemetry.io/otel/trace v1.24.0 // indirect
 	go.uber.org/multierr v1.10.0 // indirect
 	golang.org/x/net v0.26.0 // indirect
-	golang.org/x/sync v0.10.0 // indirect
+	golang.org/x/sync v0.11.0 // indirect
 	google.golang.org/genproto/googleapis/api v0.0.0-20240318140521-94a12d6c2237 // indirect
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20240318140521-94a12d6c2237 // indirect
 )
@@ -113,6 +113,6 @@ require (
 	github.com/tscholl2/siec v0.0.0-20210707234609-9bdfc483d499 // indirect
 	golang.org/x/crypto v0.32.0
 	golang.org/x/exp v0.0.0-20230905200255-921286631fa9
-	golang.org/x/sys v0.29.0 // indirect
+	golang.org/x/sys v0.30.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
